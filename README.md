@@ -1,2 +1,2 @@
-# remove-chrome-ad-extension
-Extension for Microsoft Edge that removes annoying Chrome Ad
+# Remove Chrome ad extension
+Removes the annoying popup (that keeps coming back) on Google sites that suggests to use Google Chrome.
