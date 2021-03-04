@@ -1,0 +1,7 @@
+clear browser cookies for google.com domain
+go to google.com
+see popup in top right location
+install extension
+go to google.com
+see no popup or popup disappear
+have happy life ;)

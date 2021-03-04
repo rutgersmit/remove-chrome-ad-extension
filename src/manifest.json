@@ -1,8 +1,8 @@
 {
    "manifest_version": 2,
-   "name": "Remove 'Google recommends using Chrome' ad",
+   "name": "Remove 'Google recommends using ...' ad",
    "version": "0.2.0",
-   "description": "Removes the annoying popup (that keeps coming back) on Google sites that suggests to use Google Chrome.",
+   "description": "Removes the annoying popup (that keeps coming back) on Google sites that suggests to use Google's browser.",
    "icons": {
       "16": "technician-16.png",
       "48": "technician-48.png",

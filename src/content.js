@@ -19,5 +19,5 @@ function removeIt(){
     var v = s ? s.value : '';
     if(v.indexOf('https://ogs.google.com/u/0/widget/callout')==0)
     fs[i].parentElement.remove();
-	}
+  }
 }
