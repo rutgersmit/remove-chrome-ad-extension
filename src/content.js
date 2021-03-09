@@ -1,6 +1,6 @@
-checkSjit();
+checkDOM();
 
-async function checkSjit(){
+async function checkDOM(){
   var i=0;
   while(i++<10){
     setTimeout(function(){removeIt();}, 1000);
@@ -17,7 +17,7 @@ function removeIt(){
   for (var i = 0; i < fs.length; i++) {
     var s =  fs[i].attributes.src;
     var v = s ? s.value : '';
-    if(v.indexOf('https://ogs.google.com/u/0/widget/callout')==0)
-    fs[i].parentElement.remove();
+    if(v.indexOf('https://ogs.google.com/')==0)
+      fs[i].parentElement.remove();
   }
 }
